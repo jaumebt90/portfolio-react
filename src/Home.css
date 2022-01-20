@@ -1,7 +1,16 @@
 .home__bg {
   background-image: url("./img/developer.jpeg");
   background-color: #010101;
-  background-size: cover;
   background-position: 50%;
   background-repeat: no-repeat;
+  background-size: cover;
+}
+li.nav__items {
+  font-size: 18px;
+  padding-bottom: 15px;
+  transition: 0.4s ease-in-out;
+}
+.logo {
+  width: 10px;
+  height: 10px;
 }
