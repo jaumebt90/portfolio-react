@@ -1,0 +1,7 @@
+.home__bg {
+  background-image: url("./img/developer.jpeg");
+  background-color: #010101;
+  background-size: cover;
+  background-position: 50%;
+  background-repeat: no-repeat;
+}
