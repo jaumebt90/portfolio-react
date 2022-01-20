@@ -9,3 +9,10 @@ h1.about__heading {
   font-family: Montserrat, sans-serif;
   font-size: 60px;
 }
+button.about.btn.pointer {
+  text-transform: capitalize;
+  width: 195px;
+  height: 55px;
+  font-size: 18px;
+  transition: 0.4s ease;
+}
