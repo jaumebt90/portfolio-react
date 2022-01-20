@@ -1,6 +1,6 @@
 import React from "react";
 import "./Home.css";
-import logo from "./img/logo.jpeg";
+import logo from "../img/logo.jpeg";
 
 function Home() {
   return (

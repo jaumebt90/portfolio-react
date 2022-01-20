@@ -1,11 +1,11 @@
 import React from "react";
 import "./Project.css";
-import project1 from "./img/project1.jpeg";
-import project2 from "./img/project2.png";
-import project3 from "./img/project3.jpeg";
-import project4 from "./img/project4.jpeg";
-import project5 from "./img/project5.png";
-import project6 from "./img/project6.png";
+import project1 from "../img/project1.jpeg";
+import project2 from "../img/project2.png";
+import project3 from "../img/project3.jpeg";
+import project4 from "../img/project4.jpeg";
+import project5 from "../img/project5.png";
+import project6 from "../img/project6.png";
 
 function Project() {
   return (
@@ -118,6 +118,9 @@ function Project() {
                 </a>
               </div>
             </div>
+          </div>
+          <div className="view__more__btn d__flex align__items__center justify__content__center pxy__30">
+            <button className="view__more pointer btn">View more</button>
           </div>
         </div>
       </div>

@@ -1,7 +1,8 @@
-import About from "./About";
 import "./App.css";
-import Home from "./Home";
-import Project from "./Project";
+import Home from "./components/Home";
+import About from "./components/About";
+import Project from "./components/Project";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <Home />
       <About />
       <Project />
+      <Footer />
     </div>
   );
 }
