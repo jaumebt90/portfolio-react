@@ -25,14 +25,8 @@ function Home() {
               <a href="#About">
                 <li className="nav__items mx__15">About</li>
               </a>
-              <a href="#Services">
-                <li className="nav__items mx__15">Services</li>
-              </a>
-              <a href="#Portfolio">
-                <li className="nav__items mx__15">Portfolio</li>
-              </a>
-              <a href="#Blog">
-                <li className="nav__items mx__15">Blog</li>
+              <a href="#Projects">
+                <li className="nav__items mx__15">Projects</li>
               </a>
               <a href="#Contact">
                 <li className="nav__items mx__15">Contact</li>
@@ -60,22 +54,16 @@ function Home() {
             <div className="sideNavbar">
               <ul className="sidebar d__flex">
                 <li className="sideNavbar">
-                  <a href="#home">Home</a>
+                  <a href="#Home">Home</a>
                 </li>
                 <li className="sideNavbar">
-                  <a href="#about">About</a>
+                  <a href="#About">About</a>
                 </li>
                 <li className="sideNavbar">
-                  <a href="#services">Services</a>
+                  <a href="#Projects">Projects</a>
                 </li>
                 <li className="sideNavbar">
-                  <a href="#portfolio">Portfolio</a>
-                </li>
-                <li className="sideNavbar">
-                  <a href="#blog">Blog</a>
-                </li>
-                <li className="sideNavbar">
-                  <a href="#contact">Contact</a>
+                  <a href="#Contact">Contact</a>
                 </li>
               </ul>
             </div>
@@ -86,9 +74,9 @@ function Home() {
           <div className="home__content">
             <div className="home__meta">
               <h1 className="home__text pz__10">WELCOME TO MY WORLD</h1>
-              <h2 className="home__text pz__10">Hi, I’m Jone Doe</h2>
+              <h2 className="home__text pz__10">Hi, I’m Jaume</h2>
               <h3 className="home__text sweet pz__10">JS Developer.</h3>
-              <h4 className="home__text pz__10">based in USA.</h4>
+              <h4 className="home__text pz__10">based in Mallorca.</h4>
             </div>
           </div>
         </div>
