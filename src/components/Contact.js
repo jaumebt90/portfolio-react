@@ -3,14 +3,14 @@ import "./Contact.css";
 
 function Contact() {
   return (
-    <div className="contact component__space">
+    <div className="contact component__space" id="Contact">
       <div className="row">
         <div className="col__2">
           <div className="contact__box">
             <div className="contact__meta">
               <h1 className="hire__text">Hire Me.</h1>
               <p className="hire__text white">
-                I am available for freelance work. Connect with me via phone:
+                I am available to work. Connect with me via phone:
               </p>
               <p className="hire__text white">
                 <strong>+34 648 611 383</strong> or email{" "}

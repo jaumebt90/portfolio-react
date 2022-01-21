@@ -9,7 +9,7 @@ import project6 from "../img/project6.png";
 
 function Project() {
   return (
-    <div className="project component__space">
+    <div className="project component__space" id="Projects">
       <div className="heading">
         <h1 className="heading">My Latest Projects</h1>
         <p className="heading p__color">efjefejfjefbjebfje</p>
