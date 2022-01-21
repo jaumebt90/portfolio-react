@@ -1,7 +1,7 @@
 .home__bg {
   background-image: url("../img/developer.jpeg");
-  background-color: #010101;
-  background-position: 50%;
+  /* background-color: #010101; */
+  background-position: 80%;
   background-repeat: no-repeat;
   background-size: cover;
 }

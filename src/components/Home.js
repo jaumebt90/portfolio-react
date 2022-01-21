@@ -1,8 +1,15 @@
-import React from "react";
+import React, { useState } from "react";
 import "./Home.css";
 import logo from "../img/logo.jpeg";
 
 function Home() {
+  //fixed header
+  window.addEventListener("scroll", function () {
+    const header = document.querySelector(".header");
+    header.classList.toggle("active", window.scrollY > 0);
+  });
+  //Toogle Menu
+  const [show, setShow] = useState(true);
   return (
     <div className="home">
       <div className="home__bg">
