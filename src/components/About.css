@@ -3,7 +3,8 @@
 }
 img.about__img {
   border-radius: 10px;
-  width: 100%;
+  width: 40%;
+  height: 50%;
 }
 h1.about__heading {
   margin-bottom: 10px;
