@@ -47,3 +47,33 @@ h4.home__text {
   padding: 0px 30px;
   background-color: #191919;
 }
+/* RESPONSIVE */
+@media only screen and (max-width: 768px) {
+  .header {
+    justify-content: space-between;
+  }
+  .navigation.pxy__30 {
+    display: none;
+  }
+  h2.white.pz__10 {
+    font-size: 50px !important;
+  }
+  svg.bi.bi-justify.white.pointer {
+    width: 30px;
+    height: 30px;
+  }
+}
+@media only screen and (max-width: 425px) {
+  h2.home__text.pz__10 {
+    font-size: 32px;
+  }
+  h3.sweet.pz__10 {
+    font-size: 40px;
+  }
+  h1.home__text {
+    font-size: 14px;
+  }
+  h4.home__text {
+    font-size: 45px;
+  }
+}
