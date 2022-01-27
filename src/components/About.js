@@ -19,13 +19,29 @@ function About() {
             <h1 className="about__heading">About Me</h1>
             <div className="about__meta">
               <p className="about__text p__color">
-                no se que no se cuantos, de mi y mi vida enterita.
+                I'm a front-end developer.
+                <br /> After several years working in the telecommunications
+                sector, I felt that I needed a change in my life. Since I have
+                always liked technology, I decided to enroll in the Ironhack Web
+                Development Bootcamp. And so far, I'm delighted with the change!
               </p>
               <p className="about__text p__color">
-                no se que no se cuantos, de mi y mi vida enterita.
+                Now, I love coding and I love the idea to be able to create
+                applications or webs, with functionalities that help people.
+                <br /> I have developed a passion for coding and the idea to be
+                able to create and develop applications or webs, to solve real
+                life problems.
               </p>
               <p className="about__text p__color">
-                no se que no se cuantos, de mi y mi vida enterita.
+                The technology stack that I currently work with is JavaScript,
+                React, Node.js, MongoDB, HTML5 and CSS3, as well as Git, Github,
+                HandlebarsJS, Bootstrap, Axios. I continue to enhance my coding
+                skills on a daily basis through katas and online courses and I
+                plan to pursue typescript and Next.js in the coming future.
+                <br /> My previous experience as a telecom technician and
+                customer service manager have made me a great team asset,
+                feeling comfortable dealing and communicating with people at
+                different levels and being a fantastic problem solver.
               </p>
               <div className="about__button d__flex align__items__center">
                 <a href="#">
